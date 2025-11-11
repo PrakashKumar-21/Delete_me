@@ -1,2 +1,6 @@
-hey all, How are you ... this is prakash 
-i am fine
+git status
+git log
+git checkout  db4324756c90c7ea9d866c8b73a53f792f3dff70
+git checkout master
+git config --list
+
