@@ -3,4 +3,8 @@ git log
 git checkout  db4324756c90c7ea9d866c8b73a53f792f3dff70
 git checkout master
 git config --list
+git config
+git config user.name "Prakash"
+git config user.email "pmali2885@gmail.com"
+git commit -m "First Commit"
 
